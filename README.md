@@ -2,3 +2,4 @@
 Hi 
 Welcome to learn about GitHub
 This is a test line for Git conflict: main branch
+This is a test line for Git conflict: test branch
